@@ -1,0 +1,21 @@
+
+---
+
+### **project.yml**
+```yaml
+project:
+  name: "Day 19 – Word Replacer in File"
+  author: "Faiz Ur Rehman Ashrafi"
+  week: 3
+  topic: "File Handling & Functions"
+  description: "Replace one word with another word inside a text file."
+  version:
+    - 01_word_replace.py: "Basic in-memory version"
+    - 02_word_replace.py: "Modular version with file operations"
+    - 03_word_replace.py: "Final version with improvements and word count"
+  language: "Python"
+  created_on: "Sat 18 Oct 2025"
+  last_updated: "Sat 18 Oct 2025"
+  status: "Completed"
+  tested: true
+  output_file: "output.txt"

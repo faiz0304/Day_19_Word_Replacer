@@ -1,0 +1,11 @@
+This is Faiz.
+Faiz lives in Karachi.
+Faiz loves Python and learning every day.
+Python is easy and powerful.
+
+# Example After Replacement (Python → Java):
+
+This is Faiz.
+Faiz lives in Karachi.
+Faiz loves Java and learning every day.
+Java is easy and powerful.

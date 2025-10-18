@@ -1,0 +1,4 @@
+This is Faiz.
+Faiz lives in Karachi.
+Faiz loves Java and learning every day.
+Java is easy and powerful.
